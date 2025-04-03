@@ -1,0 +1,9 @@
+{
+    "organization": "Frontend Team",
+    "customer_id": "mmt",
+    "region": "Singapore",
+    "zip_code": "94110",
+    "type": "premium",
+    "contact_email": "mmt@acme.com",
+    "status": "active"
+}

@@ -1,0 +1,9 @@
+{
+    "organization": "Shipping Team",
+    "customer_id": "alt",
+    "region": "US-east",
+    "zip_code": "94105",
+    "type": "premium",
+    "contact_email": "james@acme.com",
+    "status": "active"
+}

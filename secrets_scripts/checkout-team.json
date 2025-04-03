@@ -1,0 +1,9 @@
+{
+    "organization": "Checkout Team",
+    "customer_id": "hsu",
+    "region": "NewZealand",
+    "zip_code": "94115",
+    "type": "premium",
+    "contact_email": "hsu@acme.com",
+    "status": "active"
+}
