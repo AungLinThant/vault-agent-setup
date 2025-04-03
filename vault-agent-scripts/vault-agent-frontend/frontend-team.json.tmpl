@@ -1,0 +1,8 @@
+{
+   {{ with secret "secret/data/frontend-team/uat" }}
+   "Organization": "{{ .Data.data.organization }}",
+   "ID": "{{ .Data.data.customer_id }}",
+   "Contact": "{{ .Data.data.contact_email }}",
+   "zipcode": "{{ .Data.data.zip_code }}"
+   {{ end }}
+}
