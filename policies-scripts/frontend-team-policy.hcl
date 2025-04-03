@@ -1,0 +1,1 @@
+path "secret/data/frontend-team/*" {capabilities = ["read","list"]}

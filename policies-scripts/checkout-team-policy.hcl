@@ -1,0 +1,1 @@
+path "secret/data/checkout-team/*" {capabilities = ["read","list"]}
