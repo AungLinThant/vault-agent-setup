@@ -1,6 +1,6 @@
 # vault-agent-setup
 1. setup vault and do export vault in pc to access vault dev mode server by via cli
-   Note:
+Note:
 vault server -dev -dev-listen-address=0.0.0.0:8200
 
 export VAULT_ADDR='http://0.0.0.0:8200'
