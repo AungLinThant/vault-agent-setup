@@ -16,3 +16,14 @@ vault login
 3. Create policy
 4. Create token which attach to policy
 5. Run vault agent
+
+####vault default method is token auth method (can check "vault auth list)
+####default root token is long live token. can do everything. full right.
+
+Vault Agent is useful in scenarios where you need automatic secret retrieval, injection, and renewal without modifying application code
+Use Cases:
+Auto-Authentication
+Dynamic Secret Injection
+Auto-Renewing Secrets
+Running in Air-Gapped Environments
+Reducing Latency for Secrets Retrieval
